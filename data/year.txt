@@ -1,0 +1,4 @@
+['2018', 'Temp. ', '(°C)', 'Dew Point ', '(°C)', 'Humidity ', '(%)', 'Sea Level Press. ', '(hPa)', 'Visibility ', '(km)', 'Wind ', '(km/h)', 'Precip. ', '(mm)', 'Events']
+['2018', 'Temp. ', '(°C)', 'Dew Point ', '(°C)', 'Humidity ', '(%)', 'Sea Level Press. ', '(hPa)', 'Visibility ', '(km)', 'Wind ', '(km/h)', 'Precip. ', '(mm)', 'Events']
+['2018', 'Temp. ', '(°C)', 'Dew Point ', '(°C)', 'Humidity ', '(%)', 'Sea Level Press. ', '(hPa)', 'Visibility ', '(km)', 'Wind ', '(km/h)', 'Precip. ', '(mm)', 'Events']
+2018
