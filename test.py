@@ -32,3 +32,21 @@ with open(file_path + 'weather_test.txt', 'wt') as f:
 2015
 2016
 2017
+
+
+<tr>
+<th>Time <span class="nb">(CST)</span></th>
+<th>Temp.</th>
+<th>Windchill</th>
+<th>Dew Point</th>
+<th>Humidity</th>
+<th>Pressure</th>
+<th>Visibility</th>
+<th>Wind Dir</th>
+<th>Wind Speed</th>
+<th>Gust Speed</th>
+<th>Precip</th>
+<th>Events</th>
+<th>Conditions</th>
+</tr>
+</thead>
